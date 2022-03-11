@@ -11,5 +11,4 @@
             let newColor = getRandomColor();
             document.body.style.background = newColor;
         }
-    }
 </script>
