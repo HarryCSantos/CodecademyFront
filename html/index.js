@@ -1,6 +1,5 @@
 <script>
-    function getRandomColor() {
-        let letters = '0123456789ABCDEF';
+    function getRandomColor(){
         
     }
 </script>
